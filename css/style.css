@@ -1,0 +1,72 @@
+body{
+    font-family: 'Trirong', serif;
+    background-color: rgba(189, 189, 189, 0.39);
+}
+
+h2{
+    font-family: 'Pinyon Script', cursive;
+}
+
+h3{
+    
+    font-family: 'Noto Serif SC', serif;
+}
+
+
+
+.menu{
+    font-family: 'Tomorrow', sans-serif;
+   
+}
+
+nav{
+    background-color: rgb(49, 109, 177) !important;
+}
+
+.imagen{
+    height: 100%;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 5rem;
+}
+
+.banners{
+  min-height: 100%;
+}
+
+.contenido {
+   width: 100%;
+   color: white;
+
+}
+
+@media(min-width:1024px){   
+.contenido {
+    font-size: 1.5rem;
+    
+ }
+
+ .contenido h3{
+     font-weight: bold;
+ }
+
+} 
+
+#mapid{
+    height: 300px;
+}
+
+.iconos{
+    font-size: 30px;
+    padding-right: 10px;
+    color:rgb(29, 126, 218);
+    display: inline-block;
+}
+
+
+footer{
+    background-color: rgb(49, 109, 177) !important;
+    font-family: 'Tomorrow', sans-serif;
+} 
